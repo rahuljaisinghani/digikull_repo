@@ -1,6 +1,2 @@
-<<<<<<< HEAD
 hello sir rahul
 2
-=======
-hello sir
->>>>>>> parent of a24fd6d (Update info.txt)
